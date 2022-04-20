@@ -18,5 +18,6 @@ jobs:
         with:
           version: 0.2
           cmds: |
+            project init
             project update
             do test
